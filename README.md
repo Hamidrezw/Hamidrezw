@@ -1,4 +1,4 @@
-<img align="center" alt=""  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+<img align="center" alt="" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 <h1 align="center">Hi 👋, I'm Hamidreza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
@@ -53,5 +53,5 @@
 </div>
 
   <img height="80">
- <img align="left" src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidrezw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img align="left" src="https://streak-stats.demolab.com?user=Hamidrezw&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamidrezw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
